@@ -1,18 +1,15 @@
-### Hi there 👋
+### Bem vindo a minha casa 👋
 
-<!--
-**EmersonDJob/EmersonDjob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudande de Analises e desenvolvimento de Sistemas, que pegou gosto por programação 
+aqui eu guardo um pouquinho do que estudo e minha evolução, fique a vontade para olhar o que quiser 
+e perguntar o que quiser.
 
-Here are some ideas to get you started:
+FrontEnd que manja de truco:clubs::hearts:, de pesca:fish: filmes da Marvel :supervillain_man:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<i>"Eu acredito demais na sorte. E tenho constatado que, quanto mais duro eu trabalho, mais sorte eu tenho."</i>
+
+
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emersondjob&show_icons=true&theme=radical)
