@@ -8,15 +8,15 @@ FrontEnd que manja de truco:clubs::hearts:, de pesca:fish: filmes da Marvel :sup
 
 <i>"Eu acredito demais na sorte. E tenho constatado que, quanto mais duro eu trabalho, mais sorte eu tenho."</i>
 
-React
-Vue
-Javascript
-CSS
-html
+React,
+Vue,
+Javascript,
+CSS,
+html.
 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emersondjob&show_icons=true&theme=radical)
 
 :email:jobbr70@gmail.com
-67 999
+67 99946 8759 whatsapp
