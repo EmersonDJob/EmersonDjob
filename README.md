@@ -15,7 +15,7 @@ CSS,
 html.
 
 
-node,c#,Asp Net Core
+node, C#, Asp Net Core
 
 Bora trabalhar ?
 
