@@ -14,6 +14,9 @@ Javascript,
 CSS,
 html.
 
+
+node,c#,Asp Net Core
+
 Bora trabalhar ?
 
 
