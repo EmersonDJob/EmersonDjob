@@ -4,7 +4,7 @@ Sou um estudande de Analises e desenvolvimento de Sistemas:student:, que pegou g
 aqui eu guardo um pouquinho do que estudo e minha evolução, fique a vontade para olhar 
 e perguntar o que quiser.
 
-FrontEnd Junior que manja de truco:clubs::hearts:, de pesca:fish: filmes da Marvel :supervillain_man:
+FrontEnd  
 
 
 
@@ -17,7 +17,7 @@ html.
 
 node, C#, Asp Net Core
 
-Bora trabalhar ?
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emersondjob&show_icons=true&theme=radical)
