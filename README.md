@@ -1,14 +1,13 @@
-### Bem vindo a minha casa 👋
+### Welcome my little space 👋
 
-Sou um estudande de Analises e desenvolvimento de Sistemas:student:, que pegou gosto por programação,
-aqui eu guardo um pouquinho do que estudo e minha evolução, fique a vontade para olhar 
-e perguntar o que quiser.
+
 
 FrontEnd  
 
 
 
 React,
+react Native,
 Vue,
 Javascript,
 CSS,
@@ -20,7 +19,6 @@ node, C#, Asp Net Core
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emersondjob&show_icons=true&theme=radical)
 
 :email:jobbr70@gmail.com
 67 99946 8759 whatsapp
