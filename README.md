@@ -14,7 +14,8 @@ CSS,
 html.
 
 
-node, C#, Asp Net Core
+node, C#, Asp Net Core, API , MVC, OOP, SQL SERVER
+
 
 
 
