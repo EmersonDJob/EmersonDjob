@@ -2,19 +2,14 @@
 
 
 
-FrontEnd  
+FullStack developer 
+
+C#, ASP NET, MVC, REST API, SQL, SQL SERVER, OOP, Node
+
+React,Angular,react Native,Javascript,CSS,html.
 
 
 
-React,
-react Native,
-Vue,
-Javascript,
-CSS,
-html.
-
-
-node, C#, Asp Net Core, API , MVC, OOP, SQL SERVER
 
 
 
