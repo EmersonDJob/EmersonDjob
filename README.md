@@ -8,7 +8,7 @@ no desenvolvmento nas plataformas .NET.
 Aqui deixo um pouco da minha caminhada de aprendizagem constante.
 Sempre motivado e movido a um bom café, vamos levando as vida em busca 
 soluções lógicas para os problemas apresentados!
-(em Construção!!)
+(In Progress)
 
 
 
