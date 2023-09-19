@@ -1,4 +1,5 @@
-# Olá, eu sou o Emerson  <a href="https://www.linkedin.com/in/emerson-diniz-leme-192ab336/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+# Olá, eu sou o Emerson  
+<a href="https://www.linkedin.com/in/emerson-diniz-leme-192ab336/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
 Formado em Analíses e Desenvolvimento de Sistemas em 2023 
 mas atuando como desenvolvedor desde 2019, com experiência 
