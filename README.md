@@ -1,5 +1,10 @@
 # Olá, eu sou o Emerson  
-<a href="https://www.linkedin.com/in/emerson-diniz-leme-192ab336/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+
+
+<p>
+<a href="https://www.linkedin.com/in/emerson-diniz-leme-192ab336/"><img height="35" src="https://github.com/EmersonDJob/EmersonDjob/blob/main/icon/linkedin_.png?raw=true"></a>
+  <a href="https://web.whatsapp.com/send?phone=5567999468759"><img height="35" src="https://github.com/EmersonDJob/EmersonDjob/blob/main/icon/whatsapp_.png?raw=true"></a>
+</p>
 
 Formado em Analíses e Desenvolvimento de Sistemas em 2023 
 mas atuando como desenvolvedor desde 2019, com experiência 
