@@ -3,7 +3,7 @@
 
 <p>
 <a href="https://www.linkedin.com/in/emerson-diniz-leme-192ab336/"><img height="35" src="https://github.com/EmersonDJob/EmersonDjob/blob/main/icon/linkedin_.png?raw=true"></a>
-  <a href="https://web.whatsapp.com/send?phone=5567999468759"><img height="35" src="https://github.com/EmersonDJob/EmersonDjob/blob/main/icon/whatsapp_.png?raw=true"></a>
+ 
 </p>
 
 Formado em Analíses e Desenvolvimento de Sistemas em 2023 
@@ -21,6 +21,6 @@ soluções lógicas para os problemas apresentados!
 <img align = "left" alt= "Title-icon" height = "25" width = "25" src="https://cdn.discordapp.com/attachments/798631748421943347/1082789365710860459/1676667930134.png"/> <i>E-mail para contato:  emersondinizleme@gmail.com</i>
 </p>
 
-<i>67 99946 8759 whatsapp</i>
+
 
 
