@@ -7,7 +7,7 @@
 </p>
 
 Developer in progress...
-(In Progress)
+
 
 ## Habilidades
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EmersonDJob&bg_color=000&border_color=7F00FF&title_color=7F00FF&text_color=FFF)
