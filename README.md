@@ -6,7 +6,7 @@
  
 </p>
 
-Developer in progress...
+Developer
 
 
 ## Habilidades
