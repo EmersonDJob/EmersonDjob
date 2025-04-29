@@ -1,20 +1,25 @@
-# Olá, eu sou o Emerson  
 
 
-<p>
-<a href="https://www.linkedin.com/in/emerson-diniz-leme-192ab336/"><img height="35" src="https://github.com/EmersonDJob/EmersonDjob/blob/main/icon/linkedin_.png?raw=true"></a>
- 
-</p>
+# 👋 Olá, sou Emerson Diniz Leme
 
-Developer
+Sou desenvolvedor backend com experiência em C#, ASP.NET Core e bancos de dados relacionais. Apaixonado por criar soluções eficientes e escaláveis.
 
+## 🚀 Tecnologias e Ferramentas
 
-## Habilidades
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EmersonDJob&bg_color=000&border_color=7F00FF&title_color=7F00FF&text_color=FFF)
+- C#, ASP.NET Core, Entity Framework
+- SQL Server, PostgreSQL
+- HTML, CSS, JavaScript, React
+- Git, GitHub, Visual Studio
 
+## 📂 Projetos em Destaque
 
-<img align = "left" alt= "Title-icon" height = "25" width = "25" src="https://cdn.discordapp.com/attachments/798631748421943347/1082789365710860459/1676667930134.png"/> <i>E-mail para contato:  emersondinizleme@gmail.com</i>
-</p>
+- [API de Cadastro de Clientes](https://github.com/EmersonDJob/client-api): API RESTful para gerenciamento de clientes.
+- [Sistema de Estoque](https://github.com/EmersonDJob/estoque-system): Aplicação fullstack para controle de estoque.
+
+## 📫 Contato
+
+- Email: emersondinizleme@gmail.com
+- LinkedIn: [linkedin.com/in/emerson-diniz-leme-192ab336](https://www.linkedin.com/in/emerson-diniz-leme-192ab336)
 
 
 
