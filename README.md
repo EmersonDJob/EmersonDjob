@@ -11,10 +11,9 @@ Sou desenvolvedor backend com experiência em C#, ASP.NET Core e bancos de dados
 - HTML, CSS, JavaScript, React
 - Git, GitHub, Visual Studio
 
-## 📂 Projetos em Destaque
+## 📂 Projetos em Destaque - em progresso
 
-- [API de Cadastro de Clientes](https://github.com/EmersonDJob/client-api): API RESTful para gerenciamento de clientes.
-- [Sistema de Estoque](https://github.com/EmersonDJob/estoque-system): Aplicação fullstack para controle de estoque.
+https://portifolio-plum-pi-19.vercel.app/
 
 ## 📫 Contato
 
